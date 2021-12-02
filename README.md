@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I'm a front-end software engineering student at [Turing School](turing.edu). I'm a recent graduate of Dartmouth College where I studied Visual Arts and Human-Centered Design.
 
-- [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewang0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewang0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #### Skills 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>

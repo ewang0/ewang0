@@ -1,5 +1,6 @@
 ### Hi, I'm Eric 🖖
-- I'm currently a front-end software engineering student at [Turing School](turing.edu). I'm a recent graduate of Dartmouth College where I studied Visual Arts and Human-Centered Design.
+
+I'm currently a front-end software engineering student at [Turing School](turing.edu). I'm a recent graduate of Dartmouth College where I studied Visual Arts and Human-Centered Design.
 
   [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewang0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #### Skills 

@@ -5,6 +5,7 @@ I'm currently a front-end software engineering student at [Turing School](turing
   [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewang0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #### Skills 
 <p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23318ce7.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>

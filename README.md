@@ -1,6 +1,6 @@
 ### Hi, I'm Eric 🖖
 
-I'm currently a Creative Technologist at Lippincott, previously a Front End Engineer at Amazon. I'm a recent graduate of Dartmouth College where I studied Visual Arts and Human-Centered Design.
+I'm currently a Creative Technologist at Lippincott, previously a Front End Engineer at Amazon. I'm a 2020 graduate of Dartmouth College where I studied Visual Arts and Human-Centered Design.
 
   [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewang0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #### Skills 

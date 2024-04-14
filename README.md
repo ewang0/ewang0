@@ -1,20 +1,31 @@
 ### Hi, I'm Eric 🖖
 
-I'm currently a Creative Technologist at Lippincott, previously a Front End Engineer at Amazon. I'm a 2020 graduate of Dartmouth College where I studied Visual Arts and Human-Centered Design.
+I’m a freelance software engineer based out of New York City. Graduating with a B.A. from Dartmouth College in 2020, I went on to work professionally as a Front End Engineer for both Amazon and Lippincott before transitioning to freelance work full time. Currently, I take on my own freelance projects, and have teamed up with a designer to form Two Pixel Studio, a full-service design and development agency.
+
+Check out my personal portflio at: https://www.ericwang.work/
+
+Check out Two Pixel Studio at: https://www.twopixel.studio/
 
 #### Skills 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23318ce7.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/><br></br>
-  <img alt="Cypress.io" src="https://camo.githubusercontent.com/bd9c528263673db09f67bcf3445ba8e5512cfb6829e966a31ef7a378933b231a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437970726573732e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d637970726573732e696f266c6f676f436f6c6f723d7768697465"/>
-  <img alt="Mocha" src="https://img.shields.io/badge/-mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge"/>
-  <img alt="Chai" src="https://img.shields.io/badge/-chai-F7EFDF?logo=chai&logoColor=A30701&style=for-the-badge"/><br></br>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=white""/>
+  <img alt="Next"src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-black.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-black.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-black.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-black.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind CSS%20-black.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+  <img alt="styled-components" src="https://img.shields.io/badge/styled components%20-black.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img alt="Cypress" src="https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-black?logo=framer&logoColor=BFECCE&style=for-the-badge&logoColor=white"/>
+  <img alt="Open AI" src="https://img.shields.io/badge/Open AI%20-black.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"/>
+  
+  
 </p>
 
 <!--

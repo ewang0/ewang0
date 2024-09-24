@@ -1,10 +1,8 @@
 ### Hi, I'm Eric 🖖
 
-I’m a freelance software engineer based out of New York City. Graduating with a B.A. from Dartmouth College in 2020, I went on to work professionally as a Front End Engineer for both Amazon and Lippincott before transitioning to freelance work full time. Currently, I take on my own freelance projects, and have teamed up with a designer to form Two Pixel Studio, a full-service design and development agency.
+I’m a freelance software engineer based out of New York City. Graduating with a B.A. from Dartmouth College in 2020, I went on to work professionally as a Front End Engineer for both Amazon and Lippincott before transitioning to freelance work full time. 
 
 Check out my personal portflio at: https://www.ericwang.work/
-
-Check out Two Pixel Studio at: https://www.twopixel.studio/
 
 #### Skills 
 <p>

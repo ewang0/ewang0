@@ -1,7 +1,5 @@
 ### Hi, I'm Eric 🖖
 
-I’m a freelance software engineer based out of New York City. Graduating with a B.A. from Dartmouth College in 2020, I went on to work professionally as a Front End Engineer for both Amazon and Lippincott before transitioning to freelance work full time. 
-
 Check out my portfolio at: https://www.ericd.wang/
 
 #### Skills 

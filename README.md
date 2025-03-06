@@ -1,6 +1,6 @@
 ### Hi, I'm Eric 🖖
 
-Check out my portfolio at: https://www.ericd.wang/
+Check out my portfolio at: https://www.ewang.vercel.app/
 
 #### Skills 
 <p>

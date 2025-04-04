@@ -20,8 +20,6 @@ Check out my portfolio at: [http://ewang.vercel.app/](https://ewang.vercel.app/)
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-black?logo=framer&logoColor=BFECCE&style=for-the-badge&logoColor=white"/>
   <img alt="Open AI" src="https://img.shields.io/badge/Open AI%20-black.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"/>
-  
-  
 </p>
 
 <!--
